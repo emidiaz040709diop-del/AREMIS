@@ -1,0 +1,6 @@
+{
+  "name": "Duelo de Titanes: JPG vs Hugo Boss",
+  "description": "Boutique y catálogo editorial de alta perfumería. Duelo de titanes olfativo, pirámides de notas, comparador interactivo y recomendador de fragancias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
